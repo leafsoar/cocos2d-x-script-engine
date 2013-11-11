@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Hello cpp Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Hello cpp iOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>Hello lua Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>Hello lua iOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>JS CocosDragon Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>JS CocosDragon iOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>JS Crystal Craze Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>JS Crystal Craze iOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>JS Moon Warriors Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>JS Moon Warriors iOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>JS Watermelon With Me Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>JS Watermelon With Me iOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>Simple Game Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Simple Game iOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>Test JavaScript Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Test JavaScript Obfuscated Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Test JavaScript Obfuscated iOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>Test JavaScript iOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>Test cpp Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Test cpp iOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>Test lua Mac copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>40</integer>
+		</dict>
+		<key>Test lua Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>Test lua iOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
+		<key>build-all-samples Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>build-all-samples iOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1A1197B31785363400D62A44</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1A11982D178538E400D62A44</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1A6FB53517854FE400CDF010</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1A6FB7821785614200CDF010</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1D6058900D05DD3D006BFB54</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A01E16631784BDA100B0CA4A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A01E16C01784C06E00B0CA4A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A01E17E71784C45400B0CA4A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A01E18591784C4D600B0CA4A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A01E188E1784C4DC00B0CA4A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A01E18C31784C4E000B0CA4A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A01E199E1784DA0600B0CA4A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A01E1A151784DC4000B0CA4A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A035A5441782290400987F6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A035A7131782301C00987F6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A035A9BA17823FE100987F6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A035AA8D1782422400987F6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A035AC021782453000987F6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A035ACBB1782469700987F6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A035ACCE178254A300987F6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A035AE58178255DC00987F6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A07A517B1783A1CC0073F6A7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A07A517F1783A1D20073F6A7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A07A52CF1784AC9B0073F6A7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC7C7C301827361B000AC983</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,23 @@
+## 玩转 Cocos2d-x 脚本引擎
+
+文章地址 http://blog.leafsoar.com/archives/2013/11-10.html
+
+具体内容请看博文
+
+项目基于 Cocos2d-x-3.0alpha0-pre 裁剪多余内容，删除了不必要的库
+
+只提供了 mac 平台下的编译条件，你可以根据文章内容，自己操作，不需要此仓库，比如其它平台测试
+
+只需要打开 samples 目录下的 samples.xcoderoj 项目运行 HelloLua 即可
+
+实现了，Cocos2d-x 中，js 和 lua 两种脚本引擎双开，同时操作一个内置对象
+
+以完成对 Cocos2d-x 相关特性了解和学习过程
+
+可以在博文后面交流
+
+
+
+其它 Cocos2d-x 相关 http://blog.leafsoar.com/cocos2d-x/
+
+
